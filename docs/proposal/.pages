@@ -1,0 +1,9 @@
+nav:
+    - index.md
+    - estado-actual-robotica.md
+    - estado-actual-ia.md
+    - imitacion.md
+    - solucion-bajo-coste.md
+    - planning.md
+    - aplicaciones-comerciales.md
+    - candidato.md

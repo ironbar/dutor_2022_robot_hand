@@ -15,7 +15,7 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
-  #logo: res/just_mimo_logo.png
+  logo: res/robotic-hand.png
   # favicon: images/favicon.gif
   # icon:
   #   repo: fontawesome/brands/gitlab
