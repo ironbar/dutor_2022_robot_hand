@@ -23,6 +23,10 @@ markdown_extensions:
   - pymdownx.tasklist
   - footnotes
 
+plugins:
+    - search
+    - awesome-pages
+
 extra:
   generator: false
   social:
