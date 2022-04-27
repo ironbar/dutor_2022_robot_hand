@@ -16,4 +16,4 @@ Por ello, en esta propuesta para la Beca Dutor se va a explorar el desarrollo de
 
 [^9]: [https://blog.robotiq.com/what-is-the-price-of-collaborative-robots](https://blog.robotiq.com/what-is-the-price-of-collaborative-robots)
 
-[^10]: https://www.mdpi.com/2075-1702/5/1/8/htm
+[^10]: [https://www.mdpi.com/2075-1702/5/1/8/htm](https://www.mdpi.com/2075-1702/5/1/8/htm)
