@@ -7,5 +7,8 @@ install: # install python dependencies
 deploy:
 	mkdocs gh-deploy
 
+build:
+	mkdocs build
+
 clean:
 	rm -r site
