@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Dutor Grant 2022 - Low cost robot anthropomorphic hand
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website will host all the knowledge and learnings from the project "Desarrollo de una mano robótica antropomórfica de bajo coste y un guante de control"
+I will be mixing english and spanish because the proposal of the project was written in spanish.
 
-## Commands
+- [Proposal](./proposal/index.md)
+- [State of the art](./state-of-the-art/index.md)
+- [Development of prototypes](./prototypes/index.md)
+- [Evaluation](./evaluation/index.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![target_robot](res/target_robot.png)

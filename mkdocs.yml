@@ -1,1 +1,18 @@
 site_name: My Docs
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    primary: blue
+    accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #logo: res/just_mimo_logo.png
+  # favicon: images/favicon.gif
+  # icon:
+  #   repo: fontawesome/brands/gitlab
+markdown_extensions:
+  - pymdownx.tasklist
