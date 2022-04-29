@@ -11,6 +11,6 @@ Se propone un nuevo paradigma en el que el robot aprenda a imitar como hacemos l
 
 A día de hoy existe una solución comercial que podría llegar a cumplir todos los requisitos y se compone de la mano robótica de [Shadow](https://www.shadowrobot.com/) y los guantes de [HaptX.](https://haptx.com/)
 
-![demo_robot_target](res/demo_robot_target.png)
+<iframe width="1280" height="500" src="https://www.youtube.com/embed/rWHk4ht-boM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-En la [imagen sacada de un video](https://www.youtube.com/watch?v=rWHk4ht-boM) se puede ver como las manos son antropomórficas y tienen sensores de presión verdes en las yemas de los dedos. En un segundo plano puede verse a un operador que lleva los guantes de control.
+En el video se puede ver como las manos son antropomórficas y tienen sensores de presión verdes en las yemas de los dedos. En un segundo plano puede verse a un operador que lleva los guantes de control.
