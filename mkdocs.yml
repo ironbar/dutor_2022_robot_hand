@@ -36,3 +36,6 @@ extra:
       link: https://www.youtube.com/channel/UCOHmUwHnd2hmUpiDzaQ1Isg
     - icon: fontawesome/brands/kaggle
       link: https://www.kaggle.com/ironbar
+  analytics:
+    provider: google
+    property: G-5RRW27CM6Q
