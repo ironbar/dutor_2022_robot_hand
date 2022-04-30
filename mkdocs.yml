@@ -16,9 +16,7 @@ theme:
     - navigation.indexes
     - navigation.top
   logo: res/robotic-hand.png
-  # favicon: images/favicon.gif
-  # icon:
-  #   repo: fontawesome/brands/gitlab
+  favicon: res/robotic-hand.png
 markdown_extensions:
   - pymdownx.tasklist
   - footnotes
