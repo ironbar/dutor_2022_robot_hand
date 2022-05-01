@@ -17,3 +17,5 @@ También ha habido grandes avances en el área del aprendizaje por refuerzo: en 
 <iframe width="1280" height="500" src="https://www.youtube.com/embed/WXuK6gekU1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este enfoque de aprendizaje por refuerzo se está intentando llevar al mundo de la robótica. Por ejemplo la empresa [OpenAI](https://openai.com/blog/solving-rubiks-cube/) fue capaz de entrenar a una mano robótica para resolver el cubo de rubik. Sin embargo este enfoque tiene un problema importante ya que aprender desde cero requiere mucho tiempo y una capacidad de cómputo muy grande, lo que se traduce en un coste muy alto.
+
+<iframe width="1280" height="500" src="https://www.youtube.com/embed/jm-ihc7CASY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
