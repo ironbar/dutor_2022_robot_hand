@@ -10,7 +10,9 @@ Estudié Ingeniería Industrial con especialidad en Electrónica y durante la ca
 
 En el proyecto final de carrera diseñé y construí el robot de sumo [Adsumoto](https://www.youtube.com/watch?v=ClTWrSS48wY). Finalmente en los primeros años de mi carrera profesional estuve trabajando en el diseño de dispositivos electrónicos en la empresa das-Nano. Como parte de ese trabajo realicé el proyecto “Diseño de un Dispositivo para Administración Controlada de Medicamentos mediante Nanotecnología” con la beca Fuentes Dutor en el año 2013.
 
-![adsumoto](res/adsumoto.png)
+<!-- ![adsumoto](res/adsumoto.png) -->
+
+<iframe width="1280" height="500" src="https://www.youtube.com/embed/ClTWrSS48wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inteligencia artificial
 
