@@ -3,6 +3,7 @@ site_name: Mimo Robots
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   language: en
   palette:
     primary: blue
